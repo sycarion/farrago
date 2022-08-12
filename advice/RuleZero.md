@@ -1,0 +1,1 @@
+Enjoy ajudicating the game. If it stops being fun, change places with another player.
