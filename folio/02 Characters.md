@@ -1,14 +1,3 @@
-# Foundational Folio
-
-## Introduction
-This book contains only the basic rules to play Farrago. The intended audience are those familiar with role playing games in general. It is also intended for players and ajudicators familiar with Farrago.
-
-### Dice
-This game uses regular six-sided dice and two ten-sided dice.
-
-### Core Mechanic
-In situations with a chance for success or failure, the player will roll d% equal or less than a target number. The target number is determined by the appropraite stat multiplied by a character's skill level plus modifiers based on circumstances, equipment, and/or luck.
-
 ## Characters
 Every player has a character to interact with the world described by the ajudicator. 
 
@@ -19,6 +8,14 @@ The process of creating a character uses familiar options derived from fantasy r
 Kith & Kin represent a character's ancestry (kith) and where they grew up (kin). Their kith informs their outward appearance to any level the player wishes. A chracter's kith also provides a minor boon.
 
 Kin represents the relationships and environment where the character grew up. Their experiences have the greatest impact on how they view the world and their basic capabilities. A character's kin may provide a modifier to one of more base stats, but will always provide at least one starting skill.
+
+#### Dwarves
+
+#### Elves
+
+#### Humans
+
+#### Halflings
 
 ### Base Stats
 
@@ -46,28 +43,3 @@ If the player has a maintenance kit or takes the sword to a smith, the rating ca
 Depletion Dice most often affect ammunition and magic items. A quiver of arrows can empty quickly depending on how many were purchased. A higher rating for arrows means that more were purchased. Unlike melee weapons, arrows and most ammunition can be recovered to raise the rating.
 
 **Optional Rule:** When Ammunition is reduced to a rating of one, the player may choose to roll that one die to determine the exact amount of ammunition left. For example, if the Rogue's arrows are reduced to a rating of 1 and no arrows can be recovered, they may choose to roll a die to determine the exact number of arrows left.
-
-## Magic
-
-### Types of Magic
-
-### Spells
-
-### Magical Equipment
-
-## Exploration
-
-## Combat
-
-## Crafting
-
-## Encounters
-
-### Creatures
-
-### Locations
-
-## Ajudicators
-
-
-
