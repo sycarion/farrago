@@ -11,7 +11,7 @@ Inspirational Tables, handling narrative play, making stuff that isn't in the ru
 More than things to fight, this is factions, landmarks, places, and other things alive, inanimate, or otherwise.
 
 ## Introduction
-Welcome to my houserules
+Welcome to the game
 
 ## Ancestries & Cultures
 What shaped you by nature

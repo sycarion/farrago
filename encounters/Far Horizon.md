@@ -1,5 +1,0 @@
-## The Far Horizon
-
-There are many visitors to the world that tell stories of being displaced here. The imagined world of all these stories has come to be called the Far Horizon.
-
-Kith and Kin from the Far Horizon speak of Wizards that use great tomes to work their magic and dragons of all colors. Their strange gods are known only to them.
