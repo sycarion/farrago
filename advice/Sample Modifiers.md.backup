@@ -1,0 +1,8 @@
+## Sample Modifiers
+
+
+### Wrong stat in skill
+
+If someone with the lockpicking skill attempts to charm a lock into opening, Charisma (instead of Dexterity) is used as the base stat as normal. If the character has a level 4 lockpicking ability and the Charisma stat is 16, the upper target number is still 16 * 4 or 84.
+
+However, the difficulty level is increased by 3. The changes a level 5 lock into a level 8, setting the lower targe
