@@ -12,7 +12,7 @@ For more in-depth rules and advice, there are three books that comprise the core
 
 The Possibilities Book provides more options for characters, including equipment mundance and magical.
 
-Ajudicator is my word for a Game Master or a Referee. Hopefully, it can be a source of inspiration for the next session or just fun to read.
+Adjudicator is my word for a Game Master or a Referee. Hopefully, it can be a source of inspiration for the next session or just fun to read.
 
 Encounters are more than stat blocks and epic battles, but those aren't left out. Encounters will also include potential allies, foils, and factions.
 
