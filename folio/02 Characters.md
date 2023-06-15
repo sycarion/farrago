@@ -18,8 +18,42 @@ Kin represents the relationships and environment where the character grew up. Th
 #### Halflings
 
 ### Base Stats
+There are six base stats for characters, Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. To determine your base stats, roll 3d6 for each stat. Your ajudicator may provide other options.
+
+#### Strength
+Strength represents
+
+#### Dexterity
+Agility represents
+
+#### Constitution
+Constitution represents
+
+#### Intelligence
+Intelligence represents
+
+#### Wisdom
+Wisdom represents
+
+#### Charisma
+Charisma represents
 
 ### Skills
+Skills represent training to perform a non-magical task. Gaining a level in a skill requires 10 XP * the next highest level. For example, to go from Level 3 to 4 in a skill, the cost is 40 XP.
+
+#### ATHLETICS (STR)
+
+#### CRAFT(INT)
+ This skill measures the character’s ability to make and repair a specific type of items. This would include smithing, thatching, bowyer, brickmason, or carpentry.
+ 
+As a very rough guide, it takes one day per 50 SP to produce an item. The base cost of the article in materials needed is 50% of the listed finished value.
+
+#### LANGUAGES (INT)
+
+#### SLIGHT OF HAND (DEX)
+This skill includes any ledgerdemain, picking pockets, or Find the Lady. 
+
+#### WEAPON (STR/DEX)
 
 ### Professions
 
