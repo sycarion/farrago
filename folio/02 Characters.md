@@ -1,8 +1,8 @@
 ## Characters
-Every player has a character to interact with the world described by the ajudicator. 
+Every player has a character to interact with the world described by the adjudicator. 
 
 ### Creating a Character
-The process of creating a character uses familiar options derived from fantasy role playing games. Other options are available based on what all the players, including the ajudicator, have agreed uopon.
+The process of creating a character uses familiar options derived from fantasy role playing games. Other options are available based on what all the players, including the adjudicator, have agreed uopon.
 
 ### Kith & Kin
 Kith & Kin represent a character's ancestry (kith) and where they grew up (kin). Their kith informs their outward appearance to any level the player wishes. A chracter's kith also provides a minor boon.
@@ -18,7 +18,7 @@ Kin represents the relationships and environment where the character grew up. Th
 #### Halflings
 
 ### Base Stats
-There are six base stats for characters, Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. To determine your base stats, roll 3d6 for each stat. Your ajudicator may provide other options.
+There are six base stats for characters, Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. To determine your base stats, roll 3d6 for each stat. Your adjudicator may provide other options.
 
 #### Strength
 Strength represents
@@ -44,14 +44,14 @@ Skills represent training to perform a non-magical task. Gaining a level in a sk
 #### ATHLETICS (STR)
 
 #### CRAFT(INT)
- This skill measures the character’s ability to make and repair a specific type of items. This would include smithing, thatching, bowyer, brickmason, or carpentry.
+This skill measures the character’s ability to make and repair a specific type of items. This would include smithing, thatching, bowyer, brickmason, or carpentry.
  
-As a very rough guide, it takes one day per 50 SP to produce an item. The base cost of the article in materials needed is 50% of the listed finished value.
+*As a very rough guide, it takes one day per 50 SP to produce an item. The base cost of the article in materials needed is 50% of the listed finished value.*
 
 #### LANGUAGES (INT)
 
 #### SLIGHT OF HAND (DEX)
-This skill includes any ledgerdemain, picking pockets, or Find the Lady. 
+This skill includes any ledgerdemain, picking pockets, or playing Find the Lady (Three Card Monte). 
 
 #### WEAPON (STR/DEX)
 
