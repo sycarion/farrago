@@ -39,29 +39,100 @@ Wisdom represents
 Charisma represents
 
 ### Skills
-Skills represent training to perform a non-magical task. Gaining a level in a skill requires 10 XP * the next highest level. For example, to go from Level 3 to 4 in a skill, the cost is 40 XP.
+Skills represent training to perform a non-magical task. Skills are grouped into areas of expertise. The area of expertise of a given skill will determine its base stat.
+
+Gaining a level in a skill requires 10 XP * the next highest level. For example, to go from Level 3 to 4 in a skill, the cost is 40 XP.
+
+
+#### Gathering Information
+##### Contacts
+##### Listening at doors
+##### Perception
+
+#### Ledgerdemain
+This area of expertise includes any sleight of hand, picking pockets, or playing Find the Lady (Three Card Monte). 
+##### Picking pockets
+##### Picking locks
+##### juggling
+##### Sleight of Hand
+
+
+#### Trapmaking
+##### Finding traps
+##### Removing traps
 
 #### ATHLETICS (STR)
+##### Climbing
+##### Jumping
+##### Tumbling
+
+#### Stealth
+##### Moving silently
+##### Hiding in shadows
+
+#### Lore
+##### Reading languages
+##### Read Magic
+##### Ancient History
+##### Kith Lore
+##### Kin Lore
+
 
 #### CRAFT(INT)
-This skill measures the character’s ability to make and repair a specific type of items. This would include smithing, thatching, bowyer, brickmason, or carpentry.
+This area of expertise measures the character’s ability to make and repair a specific type of items. This would include smithing, thatching, bowyer, brickmason, or carpentry.
+
+Crafting cannot be taken as a category and requires a kit
  
 *As a very rough guide, it takes one day per 50 SP to produce an item. The base cost of the article in materials needed is 50% of the listed finished value.*
 
-#### LANGUAGES (INT)
+##### Brewer
+##### Smithing
+##### Vinter
+##### Tinkerer
+##### Charms
 
-#### SLIGHT OF HAND (DEX)
-This skill includes any ledgerdemain, picking pockets, or playing Find the Lady (Three Card Monte). 
+#### LANGUAGES (INT)
+##### Kith Languages
+##### Kin Languages
+##### Ancient/Dead Languages
 
 #### WEAPON (STR/DEX)
 
-### Professions
+#### Melee Weapons
+Axes
+Blades
+Maces
+
+#### Missile Weapons
+Bows
+Slings
+
+#### Siege Weapons
+Ballista
+Trebuchet
+Siege Tower
+Cannon
+
+#### First Aid
+
+### Trades
 
 #### Rogue
+* Can use any Strength based skill using Dex
+* Can take categories of Non-Combat skills instead of individual skills
 
 #### Warrior
+* Can attack twice a round with the same weapon
+* Can take category of weapon instead of individual wepaons
 
 #### Wizard
+* Can create any magic item instead of charms
+* Access to magic categories instead of individual spells
+
+#### Cleric
+* Can Dispel Undead
+* Divination Magic (Foresight, knowing the future, choosing the right path, all WIS based)
+* Resistant to other magic (as a skill * 2)
 
 ### Equipment
 
