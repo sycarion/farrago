@@ -1,0 +1,56 @@
+## Backgrounds
+acolyte, acrobat, alchemist, apprentice, animal keeper, awakened beast/automaton, brewer (coffee, beer, mead, tea, etc) chef, healer, merchant, performer (circus, sing, play instrument, bard), refugee, scout, shepherd, soldier, street urchin, wandering minstrel
+
+Acrobat:
+Base Dexterity +15
+Gain Balance Skill at Dex x 2
+
+Apprentice (Alchemist)
+Base Constitution +10
+Base Intelligence +10
+Gain Poison x 2
+
+Animal Keeper
+Base Charisma +10
+Gain Animal Lore Skill with Wis x 2
+Gain Persuade for a specific animal with Cha x 3
+
+Apprentice (Priest)
+Base Wisdom +15
+Gain First Aid Skill at Wis x 3
+Gain one minor spell
+
+Apprentice (Wizard)
+Base Intelligence +15
+Gain Ancient Languages Skill with Int x 3
+Gain one minor spell
+
+Brewer
+Base Charisma +10
+Base Wisdom +10
+Gain Contacts Skill at Wis x 2
+
+Merchant
+Base Charisma +15
+Gain Appraise Skill with Cha x 3
+Has two Charms at character creation
+
+Performer (Strongman)
+Base Strength +15
+Gains Open Doors/Bends Bars with Str x 3
+Does double damage with thrown weapons
+
+Performer (Bard)
+Base Charisma +10
+Base Dexterity +10
+Gains Plays an Instrument, Singing, and Juggling at Cha x 2
+
+Street Urchin
+Base Dexterity +10
+Base Wisdom +10
+Gains one Ledgerdemain skill at Dex x 2
+
+Scout
+Base Constitution +15
+Gains Survival with Con x 3
+Gains all Trapmaking skill with Wis x 2
